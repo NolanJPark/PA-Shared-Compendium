@@ -1,0 +1,26 @@
+{
+  "id": "pa-shared-compendium",
+  "title": "PA Shared Compendium",
+  "description": "Shared actor compendium for PA",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Nolan"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "actor-1-monsters",
+      "label": "Monsters",
+      "path": "packs/actor-1-monsters",
+      "type": "Actor",
+      "system": "dnd5e"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/NolanJPark/PA-Shared-Compendium/main/module.json",
+  "download": "https://github.com/NolanJPark/PA-Shared-Compendium/archive/refs/heads/main.zip"
+}
