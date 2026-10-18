@@ -2,7 +2,7 @@
   "id": "pa-shared-compendium",
   "title": "PA Shared Compendium",
   "description": "Shared actor compendium for PA",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Nolan"
@@ -10,7 +10,7 @@
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "12"
+    "verified": "14"
   },
   "packs": [
     {
